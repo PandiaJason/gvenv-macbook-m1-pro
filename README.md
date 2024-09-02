@@ -20,8 +20,7 @@ This command will create a directory named `gvenv` in your home directory.
 
 *Check the screenshot below to see the output on a MacBook Pro:*
 
-![image.png](attachment:a9db9345-3098-4f0a-8b10-cc6d821132c6.png)
-
+![Uploading image.png…]()
 
 ### Step 2: Activate the Virtual Environment
 Activate the newly created `gvenv` virtual environment:
@@ -48,7 +47,7 @@ Your home directory will open in Jupyter Notebook under the `gvenv` environment.
 
 *Here's a screenshot showing the Jupyter Notebook running:*
 
-![image.png](attachment:312b1d07-d308-4cec-ab0f-f923d920673a.png)
+![Uploading image.png…]()
 
 
 ### Step 5: Deactivate When Done
